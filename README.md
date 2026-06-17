@@ -26,13 +26,30 @@ npm run install:local
 
 インストール後、VS Code で `Preferences: Color Theme` を開き、`Kaseitako` のテーマを選択します。
 
+## デバッグで確認する
+
+このリポジトリを VS Code で開いて F5 を押すと、Extension Development Host として別の VS Code ウィンドウが起動します。
+
+そのデバッグ用 VS Code では、このリポジトリの `package.json` にある `contributes.themes` が拡張機能の定義として読み込まれます。つまり、VSIX としてインストールしなくても、`package.json` に登録したテーマを `Preferences: Color Theme` から選択できます。
+
+テーマを調整中に見た目を確認したい場合は F5 起動、普段使いとして別プロジェクトでも使いたい場合は VSIX インストール、という使い分けにします。
+
 ## テーマを追加する
 
 1. `themes/` にテーマ JSON ファイルを追加します。
 2. `package.json` の `contributes.themes` にテーマを登録します。
-3. `npm run install:local` を実行して VS Code に再インストールします。
+3. F5 で Extension Development Host を起動し、`Preferences: Color Theme` から追加したテーマを選んで確認します。
+4. 普段使いする場合は `npm run install:local` を実行して VS Code にインストールします。
 
-テーマ生成時に使ったプロンプトは `prompts/` に残しておくと、あとから色味や方向性を調整しやすくなります。
+## Codex でスクリーンショット証跡を取る
+
+Codex にテーマの見た目確認を依頼するときは、`prompts/capture-theme-screenshots.md` の内容を参考にします。
+
+例:
+
+```text
+10パターンぐらいテーマを作成したあとで、prompts/capture-theme-screenshots.md の内容を参考に、それぞれスクショの証跡をください。
+```
 
 ## ディレクトリ構成
 
@@ -42,7 +59,9 @@ npm run install:local
 ├── themes/
 │   └── kaseitako-quiet-night-color-theme.json
 ├── prompts/
-│   └── kaseitako-quiet-night.md
+│   └── capture-theme-screenshots.md
+├── .vscode/
+│   └── launch.json
 └── scripts/
     └── install-local.ps1
 ```
@@ -51,5 +70,5 @@ npm run install:local
 
 - テーマ JSON は 1 ファイル 1 テーマで管理します。
 - 大きく方向性が違うテーマは、別ファイルとして追加します。
-- 生成や調整の意図は `prompts/` に Markdown で保存します。
+- `prompts/` にはテーマごとの生成プロンプトではなく、Codex に作業を依頼するための運用プロンプトを置きます。
 - 普段使いする場合は、VSIX としてインストールしておくと、どの VS Code ワークスペースからでも選べます。
