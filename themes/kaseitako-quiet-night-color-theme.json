@@ -1,0 +1,102 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Kaseitako Quiet Night",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#15171A",
+    "editor.foreground": "#D7DCE2",
+    "editorLineNumber.foreground": "#5D6673",
+    "editorLineNumber.activeForeground": "#A9B4C2",
+    "editorCursor.foreground": "#F2C86B",
+    "editor.selectionBackground": "#34495E",
+    "editor.inactiveSelectionBackground": "#26313D",
+    "editor.lineHighlightBackground": "#1D2228",
+    "editorIndentGuide.background1": "#2A3038",
+    "editorIndentGuide.activeBackground1": "#4B5563",
+    "sideBar.background": "#111316",
+    "sideBar.foreground": "#CBD3DC",
+    "sideBarTitle.foreground": "#F0F3F6",
+    "activityBar.background": "#0E1012",
+    "activityBar.foreground": "#F2C86B",
+    "activityBar.inactiveForeground": "#7A8491",
+    "statusBar.background": "#20252B",
+    "statusBar.foreground": "#E6EBF0",
+    "titleBar.activeBackground": "#111316",
+    "titleBar.activeForeground": "#F0F3F6",
+    "tab.activeBackground": "#15171A",
+    "tab.activeForeground": "#F0F3F6",
+    "tab.inactiveBackground": "#101215",
+    "tab.inactiveForeground": "#8B95A3",
+    "terminal.background": "#111316",
+    "terminal.foreground": "#D7DCE2"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
+      "settings": {
+        "foreground": "#7D8794",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "string",
+        "constant.other.symbol"
+      ],
+      "settings": {
+        "foreground": "#9CCB8E"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier"
+      ],
+      "settings": {
+        "foreground": "#D78FDC"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function"
+      ],
+      "settings": {
+        "foreground": "#7FB4E6"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "support.variable"
+      ],
+      "settings": {
+        "foreground": "#D7DCE2"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric",
+        "constant.language",
+        "support.constant"
+      ],
+      "settings": {
+        "foreground": "#F2C86B"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.type",
+        "support.type",
+        "entity.name.class"
+      ],
+      "settings": {
+        "foreground": "#73C7B7"
+      }
+    }
+  ]
+}

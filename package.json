@@ -1,0 +1,29 @@
+{
+  "name": "vscode-theme",
+  "displayName": "Kaseitako VS Code Theme",
+  "description": "Personal VS Code themes generated and refined with AI.",
+  "version": "0.0.1",
+  "publisher": "kaseitako",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kaseitako Quiet Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-quiet-night-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.2.2"
+  },
+  "scripts": {
+    "package": "vsce package",
+    "install:local": "powershell -ExecutionPolicy Bypass -File ./scripts/install-local.ps1"
+  }
+}
