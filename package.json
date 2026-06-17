@@ -116,6 +116,106 @@
         "label": "Kaseitako Bright Milky Galaxy",
         "uiTheme": "vs",
         "path": "./themes/kaseitako-bright-milky-galaxy-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Clear Stationery",
+        "uiTheme": "vs",
+        "path": "./themes/kaseitako-clear-stationery-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Rainy Library",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-rainy-library-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Nerikiri Sakura",
+        "uiTheme": "vs",
+        "path": "./themes/kaseitako-nerikiri-sakura-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Retro Handheld",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-retro-handheld-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Deep Aquarium",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-deep-aquarium-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Peach Dawn",
+        "uiTheme": "vs",
+        "path": "./themes/kaseitako-peach-dawn-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Mint Porcelain",
+        "uiTheme": "vs",
+        "path": "./themes/kaseitako-mint-porcelain-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Business Magical Girl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-business-magical-girl-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Ink Wash Plum",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-ink-wash-plum-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Lemon Lavender Soda",
+        "uiTheme": "vs",
+        "path": "./themes/kaseitako-lemon-lavender-soda-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Cyber Marshmallow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-cyber-marshmallow-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Old Cafe Rose",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-old-cafe-rose-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Hologram Sticker",
+        "uiTheme": "vs",
+        "path": "./themes/kaseitako-hologram-sticker-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Forest Confectionery",
+        "uiTheme": "vs",
+        "path": "./themes/kaseitako-forest-confectionery-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Velvet Planetarium",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-velvet-planetarium-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Powder Snow Iris",
+        "uiTheme": "vs",
+        "path": "./themes/kaseitako-powder-snow-iris-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Apricot Mooncake",
+        "uiTheme": "vs",
+        "path": "./themes/kaseitako-apricot-mooncake-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Neon Bath Bomb",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-neon-bath-bomb-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Sepia Spellbook",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-sepia-spellbook-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Bubblegum Terminal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-bubblegum-terminal-color-theme.json"
       }
     ]
   },
