@@ -68,11 +68,6 @@
         "path": "./themes/kaseitako-pastel-nebula-color-theme.json"
       },
       {
-        "label": "Kaseitako Bright Lavender Milk",
-        "uiTheme": "vs",
-        "path": "./themes/kaseitako-bright-lavender-milk-color-theme.json"
-      },
-      {
         "label": "Kaseitako Bright Sugar Lilac",
         "uiTheme": "vs",
         "path": "./themes/kaseitako-bright-sugar-lilac-color-theme.json"
@@ -83,16 +78,6 @@
         "path": "./themes/kaseitako-bright-wisteria-paper-color-theme.json"
       },
       {
-        "label": "Kaseitako Bright Violet Notebook",
-        "uiTheme": "vs",
-        "path": "./themes/kaseitako-bright-violet-notebook-color-theme.json"
-      },
-      {
-        "label": "Kaseitako Bright Pearl Grape",
-        "uiTheme": "vs",
-        "path": "./themes/kaseitako-bright-pearl-grape-color-theme.json"
-      },
-      {
         "label": "Kaseitako Bright Misty Orchid",
         "uiTheme": "vs",
         "path": "./themes/kaseitako-bright-misty-orchid-color-theme.json"
@@ -101,16 +86,6 @@
         "label": "Kaseitako Bright Cloud Violet",
         "uiTheme": "vs",
         "path": "./themes/kaseitako-bright-cloud-violet-color-theme.json"
-      },
-      {
-        "label": "Kaseitako Bright Ribbon Mauve",
-        "uiTheme": "vs",
-        "path": "./themes/kaseitako-bright-ribbon-mauve-color-theme.json"
-      },
-      {
-        "label": "Kaseitako Bright Pansy Glass",
-        "uiTheme": "vs",
-        "path": "./themes/kaseitako-bright-pansy-glass-color-theme.json"
       },
       {
         "label": "Kaseitako Bright Milky Galaxy",
@@ -176,11 +151,6 @@
         "label": "Kaseitako Old Cafe Rose",
         "uiTheme": "vs-dark",
         "path": "./themes/kaseitako-old-cafe-rose-color-theme.json"
-      },
-      {
-        "label": "Kaseitako Hologram Sticker",
-        "uiTheme": "vs",
-        "path": "./themes/kaseitako-hologram-sticker-color-theme.json"
       },
       {
         "label": "Kaseitako Forest Confectionery",
