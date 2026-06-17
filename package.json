@@ -16,6 +16,56 @@
         "label": "Kaseitako Quiet Night",
         "uiTheme": "vs-dark",
         "path": "./themes/kaseitako-quiet-night-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Lavender Cream Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-lavender-cream-night-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Cotton Candy Dusk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-cotton-candy-dusk-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Lilac Moon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-lilac-moon-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Sugar Plum",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-sugar-plum-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Fairy Violet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-fairy-violet-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Macaron Grape",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-macaron-grape-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Dreamy Wisteria",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-dreamy-wisteria-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Soft Amethyst",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-soft-amethyst-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Twinkle Mauve",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-twinkle-mauve-color-theme.json"
+      },
+      {
+        "label": "Kaseitako Pastel Nebula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-pastel-nebula-color-theme.json"
       }
     ]
   },

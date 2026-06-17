@@ -57,7 +57,7 @@ Codex にテーマの見た目確認を依頼するときは、`prompts/capture-
 .
 ├── package.json
 ├── themes/
-│   └── kaseitako-quiet-night-color-theme.json
+│   └── *-color-theme.json
 ├── prompts/
 │   └── capture-theme-screenshots.md
 ├── .vscode/
