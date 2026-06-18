@@ -18,54 +18,9 @@
         "path": "./themes/kaseitako-quiet-night-color-theme.json"
       },
       {
-        "label": "Kaseitako Lavender Cream Night",
-        "uiTheme": "vs-dark",
-        "path": "./themes/kaseitako-lavender-cream-night-color-theme.json"
-      },
-      {
-        "label": "Kaseitako Cotton Candy Dusk",
-        "uiTheme": "vs-dark",
-        "path": "./themes/kaseitako-cotton-candy-dusk-color-theme.json"
-      },
-      {
-        "label": "Kaseitako Lilac Moon",
-        "uiTheme": "vs-dark",
-        "path": "./themes/kaseitako-lilac-moon-color-theme.json"
-      },
-      {
-        "label": "Kaseitako Sugar Plum",
-        "uiTheme": "vs-dark",
-        "path": "./themes/kaseitako-sugar-plum-color-theme.json"
-      },
-      {
         "label": "Kaseitako Fairy Violet",
         "uiTheme": "vs-dark",
         "path": "./themes/kaseitako-fairy-violet-color-theme.json"
-      },
-      {
-        "label": "Kaseitako Macaron Grape",
-        "uiTheme": "vs-dark",
-        "path": "./themes/kaseitako-macaron-grape-color-theme.json"
-      },
-      {
-        "label": "Kaseitako Dreamy Wisteria",
-        "uiTheme": "vs-dark",
-        "path": "./themes/kaseitako-dreamy-wisteria-color-theme.json"
-      },
-      {
-        "label": "Kaseitako Soft Amethyst",
-        "uiTheme": "vs-dark",
-        "path": "./themes/kaseitako-soft-amethyst-color-theme.json"
-      },
-      {
-        "label": "Kaseitako Twinkle Mauve",
-        "uiTheme": "vs-dark",
-        "path": "./themes/kaseitako-twinkle-mauve-color-theme.json"
-      },
-      {
-        "label": "Kaseitako Pastel Nebula",
-        "uiTheme": "vs-dark",
-        "path": "./themes/kaseitako-pastel-nebula-color-theme.json"
       },
       {
         "label": "Kaseitako Bright Sugar Lilac",
@@ -98,11 +53,6 @@
         "path": "./themes/kaseitako-clear-stationery-color-theme.json"
       },
       {
-        "label": "Kaseitako Rainy Library",
-        "uiTheme": "vs-dark",
-        "path": "./themes/kaseitako-rainy-library-color-theme.json"
-      },
-      {
         "label": "Kaseitako Nerikiri Sakura",
         "uiTheme": "vs",
         "path": "./themes/kaseitako-nerikiri-sakura-color-theme.json"
@@ -128,39 +78,14 @@
         "path": "./themes/kaseitako-mint-porcelain-color-theme.json"
       },
       {
-        "label": "Kaseitako Business Magical Girl",
-        "uiTheme": "vs-dark",
-        "path": "./themes/kaseitako-business-magical-girl-color-theme.json"
-      },
-      {
-        "label": "Kaseitako Ink Wash Plum",
-        "uiTheme": "vs-dark",
-        "path": "./themes/kaseitako-ink-wash-plum-color-theme.json"
-      },
-      {
         "label": "Kaseitako Lemon Lavender Soda",
         "uiTheme": "vs",
         "path": "./themes/kaseitako-lemon-lavender-soda-color-theme.json"
       },
       {
-        "label": "Kaseitako Cyber Marshmallow",
-        "uiTheme": "vs-dark",
-        "path": "./themes/kaseitako-cyber-marshmallow-color-theme.json"
-      },
-      {
-        "label": "Kaseitako Old Cafe Rose",
-        "uiTheme": "vs-dark",
-        "path": "./themes/kaseitako-old-cafe-rose-color-theme.json"
-      },
-      {
         "label": "Kaseitako Forest Confectionery",
         "uiTheme": "vs",
         "path": "./themes/kaseitako-forest-confectionery-color-theme.json"
-      },
-      {
-        "label": "Kaseitako Velvet Planetarium",
-        "uiTheme": "vs-dark",
-        "path": "./themes/kaseitako-velvet-planetarium-color-theme.json"
       },
       {
         "label": "Kaseitako Powder Snow Iris",
@@ -173,19 +98,9 @@
         "path": "./themes/kaseitako-apricot-mooncake-color-theme.json"
       },
       {
-        "label": "Kaseitako Neon Bath Bomb",
-        "uiTheme": "vs-dark",
-        "path": "./themes/kaseitako-neon-bath-bomb-color-theme.json"
-      },
-      {
         "label": "Kaseitako Sepia Spellbook",
         "uiTheme": "vs-dark",
         "path": "./themes/kaseitako-sepia-spellbook-color-theme.json"
-      },
-      {
-        "label": "Kaseitako Bubblegum Terminal",
-        "uiTheme": "vs-dark",
-        "path": "./themes/kaseitako-bubblegum-terminal-color-theme.json"
       }
     ]
   },
