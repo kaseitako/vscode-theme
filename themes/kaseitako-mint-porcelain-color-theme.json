@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Kaseitako Mint Porcelain",
+  "name": "Kaseitako Light Mint Porcelain",
   "type": "light",
   "colors": {
     "foreground": "#273D39",

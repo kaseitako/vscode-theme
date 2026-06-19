@@ -13,92 +13,92 @@
   "contributes": {
     "themes": [
       {
-        "label": "Kaseitako Quiet Night",
+        "label": "Kaseitako Dark Charcoal Amber",
         "uiTheme": "vs-dark",
         "path": "./themes/kaseitako-quiet-night-color-theme.json"
       },
       {
-        "label": "Kaseitako Fairy Violet",
+        "label": "Kaseitako Dark Fairy Violet",
         "uiTheme": "vs-dark",
         "path": "./themes/kaseitako-fairy-violet-color-theme.json"
       },
       {
-        "label": "Kaseitako Bright Sugar Lilac",
+        "label": "Kaseitako Light Sugar Lilac",
         "uiTheme": "vs",
         "path": "./themes/kaseitako-bright-sugar-lilac-color-theme.json"
       },
       {
-        "label": "Kaseitako Bright Wisteria Paper",
+        "label": "Kaseitako Light Wisteria Paper",
         "uiTheme": "vs",
         "path": "./themes/kaseitako-bright-wisteria-paper-color-theme.json"
       },
       {
-        "label": "Kaseitako Bright Misty Orchid",
+        "label": "Kaseitako Light Misty Orchid",
         "uiTheme": "vs",
         "path": "./themes/kaseitako-bright-misty-orchid-color-theme.json"
       },
       {
-        "label": "Kaseitako Bright Cloud Violet",
+        "label": "Kaseitako Light Cloud Violet",
         "uiTheme": "vs",
         "path": "./themes/kaseitako-bright-cloud-violet-color-theme.json"
       },
       {
-        "label": "Kaseitako Bright Milky Galaxy",
+        "label": "Kaseitako Light Milky Galaxy",
         "uiTheme": "vs",
         "path": "./themes/kaseitako-bright-milky-galaxy-color-theme.json"
       },
       {
-        "label": "Kaseitako Clear Stationery",
+        "label": "Kaseitako Light Clear Stationery",
         "uiTheme": "vs",
         "path": "./themes/kaseitako-clear-stationery-color-theme.json"
       },
       {
-        "label": "Kaseitako Nerikiri Sakura",
+        "label": "Kaseitako Light Nerikiri Sakura",
         "uiTheme": "vs",
         "path": "./themes/kaseitako-nerikiri-sakura-color-theme.json"
       },
       {
-        "label": "Kaseitako Retro Handheld",
+        "label": "Kaseitako Dark Retro Handheld",
         "uiTheme": "vs-dark",
         "path": "./themes/kaseitako-retro-handheld-color-theme.json"
       },
       {
-        "label": "Kaseitako Deep Aquarium",
+        "label": "Kaseitako Dark Deep Aquarium",
         "uiTheme": "vs-dark",
         "path": "./themes/kaseitako-deep-aquarium-color-theme.json"
       },
       {
-        "label": "Kaseitako Peach Dawn",
+        "label": "Kaseitako Light Peach Dawn",
         "uiTheme": "vs",
         "path": "./themes/kaseitako-peach-dawn-color-theme.json"
       },
       {
-        "label": "Kaseitako Mint Porcelain",
+        "label": "Kaseitako Light Mint Porcelain",
         "uiTheme": "vs",
         "path": "./themes/kaseitako-mint-porcelain-color-theme.json"
       },
       {
-        "label": "Kaseitako Lemon Lavender Soda",
+        "label": "Kaseitako Light Lemon Lavender Soda",
         "uiTheme": "vs",
         "path": "./themes/kaseitako-lemon-lavender-soda-color-theme.json"
       },
       {
-        "label": "Kaseitako Forest Confectionery",
+        "label": "Kaseitako Light Forest Confectionery",
         "uiTheme": "vs",
         "path": "./themes/kaseitako-forest-confectionery-color-theme.json"
       },
       {
-        "label": "Kaseitako Powder Snow Iris",
+        "label": "Kaseitako Light Powder Snow Iris",
         "uiTheme": "vs",
         "path": "./themes/kaseitako-powder-snow-iris-color-theme.json"
       },
       {
-        "label": "Kaseitako Apricot Mooncake",
+        "label": "Kaseitako Light Apricot Mooncake",
         "uiTheme": "vs",
         "path": "./themes/kaseitako-apricot-mooncake-color-theme.json"
       },
       {
-        "label": "Kaseitako Sepia Spellbook",
+        "label": "Kaseitako Dark Sepia Spellbook",
         "uiTheme": "vs-dark",
         "path": "./themes/kaseitako-sepia-spellbook-color-theme.json"
       }

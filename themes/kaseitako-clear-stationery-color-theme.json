@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Kaseitako Clear Stationery",
+  "name": "Kaseitako Light Clear Stationery",
   "type": "light",
   "colors": {
     "foreground": "#263545",

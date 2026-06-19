@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Kaseitako Sepia Spellbook",
+  "name": "Kaseitako Dark Sepia Spellbook",
   "type": "dark",
   "colors": {
     "foreground": "#E5DCCB",

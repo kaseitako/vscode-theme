@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Kaseitako Retro Handheld",
+  "name": "Kaseitako Dark Retro Handheld",
   "type": "dark",
   "colors": {
     "foreground": "#DCE6C8",

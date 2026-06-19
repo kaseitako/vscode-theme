@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Kaseitako Bright Milky Galaxy",
+  "name": "Kaseitako Light Milky Galaxy",
   "type": "light",
   "colors": {
     "foreground": "#343246",

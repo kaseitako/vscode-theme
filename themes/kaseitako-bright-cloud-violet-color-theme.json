@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Kaseitako Bright Cloud Violet",
+  "name": "Kaseitako Light Cloud Violet",
   "type": "light",
   "colors": {
     "foreground": "#30384C",

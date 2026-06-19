@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Kaseitako Quiet Night",
+  "name": "Kaseitako Dark Charcoal Amber",
   "type": "dark",
   "colors": {
     "editor.background": "#15171A",
