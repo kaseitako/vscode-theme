@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# VS Code extension packages and test workspaces
+*.vsix
+.vscode-test/
+.vscode-test-web/
+
+# Build and coverage output
+out/
+dist/
+coverage/
+
+# Local editor settings
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
