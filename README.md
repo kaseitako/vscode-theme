@@ -1,5 +1,8 @@
 # Kaseitako VS Code Theme
 
+<img width="695" height="515" alt="image" src="https://github.com/user-attachments/assets/a51c330a-7d71-472a-891f-cc0f00f34467" />
+
+
 AI で生成し、手元で調整しながら育てる個人用の VS Code テーマ集です。
 
 このリポジトリは VS Code のテーマ拡張機能として構成しています。複数のテーマを `themes/` に追加し、`package.json` の `contributes.themes` に登録することで、VS Code の `Preferences: Color Theme` から切り替えられるようになります。
