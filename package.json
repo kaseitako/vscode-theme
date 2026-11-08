@@ -2,7 +2,7 @@
   "name": "vscode-theme",
   "displayName": "Kaseitako VS Code Theme",
   "description": "Personal VS Code themes generated and refined with AI.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "kaseitako",
   "engines": {
     "vscode": "^1.90.0"
@@ -101,6 +101,66 @@
         "label": "Kaseitako Dark Sepia Spellbook",
         "uiTheme": "vs-dark",
         "path": "./themes/kaseitako-dark-sepia-spellbook-color-theme.json"
+      },
+      {
+        "id": "Kaseitako Dark Aurora Observatory",
+        "label": "Kaseitako Dark Aurora Observatory",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-dark-aurora-observatory-color-theme.json"
+      },
+      {
+        "id": "Kaseitako Dark Crimson Theater",
+        "label": "Kaseitako Dark Crimson Theater",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-dark-crimson-theater-color-theme.json"
+      },
+      {
+        "id": "Kaseitako Dark Matcha Library",
+        "label": "Kaseitako Dark Matcha Library",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-dark-matcha-library-color-theme.json"
+      },
+      {
+        "id": "Kaseitako Dark Cobalt Circuit",
+        "label": "Kaseitako Dark Cobalt Circuit",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-dark-cobalt-circuit-color-theme.json"
+      },
+      {
+        "id": "Kaseitako Dark Rosewood Espresso",
+        "label": "Kaseitako Dark Rosewood Espresso",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaseitako-dark-rosewood-espresso-color-theme.json"
+      },
+      {
+        "id": "Kaseitako Light Saffron Manuscript",
+        "label": "Kaseitako Light Saffron Manuscript",
+        "uiTheme": "vs",
+        "path": "./themes/kaseitako-light-saffron-manuscript-color-theme.json"
+      },
+      {
+        "id": "Kaseitako Light Nordic Postcard",
+        "label": "Kaseitako Light Nordic Postcard",
+        "uiTheme": "vs",
+        "path": "./themes/kaseitako-light-nordic-postcard-color-theme.json"
+      },
+      {
+        "id": "Kaseitako Light Terracotta Atelier",
+        "label": "Kaseitako Light Terracotta Atelier",
+        "uiTheme": "vs",
+        "path": "./themes/kaseitako-light-terracotta-atelier-color-theme.json"
+      },
+      {
+        "id": "Kaseitako Light Jade Teahouse",
+        "label": "Kaseitako Light Jade Teahouse",
+        "uiTheme": "vs",
+        "path": "./themes/kaseitako-light-jade-teahouse-color-theme.json"
+      },
+      {
+        "id": "Kaseitako Light Blueberry Cheesecake",
+        "label": "Kaseitako Light Blueberry Cheesecake",
+        "uiTheme": "vs",
+        "path": "./themes/kaseitako-light-blueberry-cheesecake-color-theme.json"
       }
     ]
   },
